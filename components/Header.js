@@ -20,12 +20,12 @@ const Header = () => {
         <div className={styles.headerWrapper}>
             <nav className={styles.nav}>
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Catalogue</div>
+                    <div className={styles.navLink}>Profile</div>
 
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Your Cart</div>
+                    <div className={styles.navLink}>Your Map</div>
                 </div>
 
                 <div className={styles.navItem}>
@@ -34,7 +34,7 @@ const Header = () => {
                 </div>
 
                 <div className={styles.navItem}>
-                    <div className={styles.navLink}>Your Orders</div>
+                    <div className={styles.navLink}>Friends</div>
 
                 </div>
 
